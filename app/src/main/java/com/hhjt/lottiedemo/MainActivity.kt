@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         print("444")
+        print("jhfkjsvkjnkdjvnfjk")
 
 //        lottie.imageAssetsFolder = "images/"
 //        lottie.setAnimationFromJson("qd1.json")
